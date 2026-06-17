@@ -26,6 +26,7 @@ Sau khi tạo một dự án mới, bạn sẽ được nhắc:
 - Đặt tên cho dự án  
 ![alt text](image-1.png)
 - Cung cấp **URL cơ sở**
+  
 ![alt text](image-3.png)
 
 **URL cơ sở** là URL của ứng dụng bạn đang thử nghiệm.  
@@ -146,12 +147,19 @@ Bạn có thể chạy lại các bài kiểm tra:
 - Nếu không → mở cửa sổ mới  
 ``
 # Thực hiện ví dụ
-TC03
+TC03: bỏ trống 2 trường nhập
+
 ![alt text](image-8.png)
-TC02
+
+TC02: nhập sai trường mât khẩu
+
 ![alt text](image-9.png)
-TC01
+
+TC01: nhập đúng cả 2 trường
+
 ![alt text](image-10.png)
+
 Kết quả:
+
 ![alt text](image-12.png)
 ![alt text](image-13.png)
